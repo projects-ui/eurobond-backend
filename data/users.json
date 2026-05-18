@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1778580900477",
+    "name": "Test Sales",
+    "phone": "9876543210",
+    "email": "test@eurobond.com",
+    "role": "Sales Executive",
+    "region": "Hyderabad",
+    "active": true,
+    "createdAt": "2026-05-12T10:15:00.477Z",
+    "lastLogin": "2026-05-12T10:36:55.293Z",
+    "otp": null,
+    "otpExpiry": null,
+    "password": "eurobond123"
+  },
+  {
+    "id": "1778586466405",
+    "name": "Karthik",
+    "phone": "7386901858",
+    "email": "projects@eurobondacp.com",
+    "role": "Sales Executive",
+    "region": "Hyderabad",
+    "active": false,
+    "createdAt": "2026-05-12T11:47:46.405Z",
+    "lastLogin": null,
+    "password": "eurobond123"
+  },
+  {
+    "id": "1778586545740",
+    "name": "projects",
+    "phone": "91361 05267",
+    "email": "projects@eurobondacp.com",
+    "role": "Sales Executive",
+    "region": "Hyderabad",
+    "active": false,
+    "createdAt": "2026-05-12T11:49:05.740Z",
+    "lastLogin": null,
+    "password": "eurobond123"
+  },
+  {
+    "id": "1778586609228",
+    "name": "projects",
+    "phone": "9136105267",
+    "email": "projects@eurobondacp.com",
+    "role": "Sales Executive",
+    "region": "Hyderabad",
+    "active": true,
+    "createdAt": "2026-05-12T11:50:09.228Z",
+    "lastLogin": null,
+    "password": "eurobond123"
+  }
+]
