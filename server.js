@@ -265,3 +265,5 @@ app.get('/api/health',(req,res)=>res.json({status:'ok',apiKey:process.env.ANTHRO
 
 const PORT=process.env.PORT||5000;
 app.listen(PORT,()=>{console.log('EUROBOND Backend running on port '+PORT);getDB();});
+ 
+ 
